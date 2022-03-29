@@ -1,0 +1,7 @@
+/* untuk smartphone */
+@media all and (max-width: 670px) {
+    .calculator {
+        width: 100%;
+    }
+
+}
